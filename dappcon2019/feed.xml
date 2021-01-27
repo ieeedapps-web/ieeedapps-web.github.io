@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IEEE DAPPCON 2019</title>
+    <description>2019 IEEE International Conference on Decentralized Applications and Infrastructures (IEEE DAPPCON 2019)</description>
+    <link>https://dappcon.net/</link>
+    <atom:link href="https://dappcon.net/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 08 May 2019 11:25:16 +0200</pubDate>
+    <lastBuildDate>Wed, 08 May 2019 11:25:16 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+  </channel>
+</rss>
